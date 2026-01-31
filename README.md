@@ -22,7 +22,7 @@ Use the included installer script for easy setup on Ubuntu/Debian systems:
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/authorTom/sysmon.git
 cd sysmon
 
 # Run the installer
